@@ -1,6 +1,6 @@
 # Austin Traffic Incidents GIS Project
 
-An analysis of traffic incidents in Austin, Texas using ArcGIS Pro, PostgreSQL, Python, and Jupyter Notebook
+An analysis of traffic incidents in Austin, Texas using SQL, PowerBI, and Jupyter Notebooks
 
 ## Project Overview
 
