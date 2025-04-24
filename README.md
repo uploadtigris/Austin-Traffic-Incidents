@@ -8,7 +8,7 @@ An analysis of traffic incidents in Austin, Texas using SQL, PowerBI, and Jupyte
 
 [Real-Time-Traffic-Incident-Reports](https://data.austintexas.gov/Transportation-and-Mobility/Real-Time-Traffic-Incident-Reports/dx9v-zd7x/about_data)
 
-## GIS Workflow
+## Pulling data
 
 ## Analysis & Visualization
 
@@ -16,6 +16,6 @@ An analysis of traffic incidents in Austin, Texas using SQL, PowerBI, and Jupyte
 
 ## Future Work
 
-## Screenshots / Map Samples
+## Screenshots
 
 ## References
