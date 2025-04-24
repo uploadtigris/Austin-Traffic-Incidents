@@ -2,6 +2,8 @@
 
 An analysis of traffic incidents in Austin, Texas using Python, SQL, PowerBI, and Jupyter Notebooks in an effort to understand economic impact and business oppurtunities.
 
+<img src="images/car_accident" alt="Car Accident" width="400">
+
 ## Project Overview
 
 ## Data Source
